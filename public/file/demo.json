@@ -1,0 +1,37 @@
+[
+  {
+    "name": "John Doe",
+    "country": "United States",
+    "city": "New York"
+  },
+  {
+    "name": "Jane Smith",
+    "country": "Canada",
+    "city": "Toronto"
+  },
+  {
+    "name": "Carlos Garcia",
+    "country": "Mexico",
+    "city": "Mexico City"
+  },
+  {
+    "name": "Alice Johnson",
+    "country": "United Kingdom",
+    "city": "London"
+  },
+  {
+    "name": "Akira Tanaka",
+    "country": "Japan",
+    "city": "Tokyo"
+  },
+  {
+    "name": "nadim",
+    "country": "india",
+    "city": "Surat"
+  },
+  {
+    "name": "nadim",
+    "country": "india",
+    "city": "Surat"
+  }
+]
